@@ -30,6 +30,7 @@ p {
 }
 
 .imgp{
+    width: 100%;
     background-image: url(imgs/background001.jpg);
     background-attachment: fixed;
     padding: 10px;
@@ -44,6 +45,7 @@ p {
 }
 
 .imgs{
+    width: 100%;
     background-image: url(imgs/background002.jpg);
     background-attachment: fixed;
     padding: 10px;
